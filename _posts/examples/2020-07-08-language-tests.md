@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Language Tests"
+title: "Random Title"
 category: example2
 ---
 
