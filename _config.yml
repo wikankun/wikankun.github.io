@@ -5,13 +5,10 @@ url: https://wikankun.github.io # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   <p>
-  <br>
-  <b>Wikan Kuncara Jati</b>
-  <br>
   I'm a programmer with 3+ years of experiences<br>
-  And the founder of Price History ID<br><br>
+  <br>
   Interest: gaming, programming, backend, data engineering<br>
-  Dislikes: frontend, CS student who says "CS student don't have to be able to code"<br>
+  Dislikes: frontend<br>
   Motto: from random import *<br><br>
   ↓ will update soon
   </p>
