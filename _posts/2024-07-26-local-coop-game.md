@@ -1,8 +1,8 @@
 ---
 layout: post
 category: recommendation
-# title: Scraping Hierarchy
-# slug: scraping-hierarchy
+title: Local Coop Game
+slug: local-coop-game
 ---
 
 Rekomendasi local coop game:
@@ -10,24 +10,22 @@ Rekomendasi local coop game:
 
     Rating: 10/10
 
-    Harvest moon themed games, main stardew valley coop seru banget, tapi lumayan overwhelming. Lumayan buat latihan kerja sama.
+    Harvest moon themed games, a bit overwhelming for me because too much things to do.
 
 2. Don't Starve Together
 
     Rating: 8/10
 
-    Bertahan hidup sendiri aja susah, ini harus bertahan hidup bareng orang lain. Tapi yang bikin seru adalah, setiap orang harus pilih karakter yang berebeda, jadi bisa saling nutupin kekurangan karakter dengan kelebihan karakter lain.
+    Surviving alone is hard already, and now we’ve gotta survive with someone else? But here’s the twist that keeps things interesting: everyone has to pick a different character, so you’re constantly covering each other’s weaknesses with the strengths of other characters. Teamwork or chaos? We’ll find out!
 
 3. Overcooked
 
     Rating: 7.5/10
 
-    Kalau yang ini mau sendiri maupun coop tetep aja overwhelming. No comment.
+    Single player or co-op, this game is still overwhelming.
 
 4. Grounded
 
     Rating: 10/10
 
-    Game tentang sekumpulan anak kecil yang tiba-tiba tubuhnya jadi kecil. Mereka ditinggal di backyard sebuah rumah yang (sepertinya) udah ngga ditinggali. Objective dari game ini adalah bertahan hidup dan mencari tau alasan kenapa tubuh mereka jadi kecil.
-
-    Game ini kalau dimainin sendiri pasti play timenya bakal lama banget. Tapi kalau dimainin bareng bakal ngurangin play time secara signifikan, soalnya setiap orang bisa nyelesein task yang berbeda.
+    A game about a group of kids who suddenly shrink to the size of bugs and find themselves abandoned in a deserted backyard. The objective? Survive the wilderness of grass blades, bugs, and garden tools while uncovering the mystery behind why they got miniaturized in the first place.
