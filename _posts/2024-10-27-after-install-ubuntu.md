@@ -3,6 +3,7 @@ layout: post
 category: article
 title: After Install Ubuntu
 slug: after-install-ubuntu
+custom_js: code_syntax
 ---
 
 ### Things I do after installing Ubuntu
@@ -47,7 +48,9 @@ slug: after-install-ubuntu
         ```
         curl -OL https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf
         ```
-    - Change terminal font: open Terminal → Preferences and click on the selected profile under Profiles. Check Custom font under Text Appearance and select MesloLGS NF Regular
+    - Change terminal font
+
+        Open Terminal → Preferences and click on the selected profile under Profiles. Check Custom font under Text Appearance and select MesloLGS NF Regular
 
 9.  Install gogh color scheme. My favorite color scheme is VSCode Dark+ (so it matches with my VSCode)
     ```

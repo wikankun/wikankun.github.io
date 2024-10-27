@@ -68,16 +68,58 @@ table, th, td {
   padding: 0.4rem;
 }
 
+.code-container {
+  position: relative;
+  display: flex;
+}
+
+.copy-button {
+  color: black;
+  background: #F6F8FA;
+  border: none;
+  cursor: pointer;
+  padding: 0.5rem;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.copy-icon, .check-icon {
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
+}
+
+.copy-feedback {
+  pointer-events: none;
+  animation: fadeInOut 2s ease-in-out forwards;
+  font-size: 12px;
+  background: #F6F8FA;
+  padding: 1.2rem;
+  position: absolute;
+  right: 36px;
+  white-space: nowrap;
+}
+
+@keyframes fadeInOut {
+  0% { opacity: 0; }
+  15% { opacity: 1; }
+  85% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
 code {
-  color: white;
-  background: black;
+  color: black;
+  background: #F6F8FA;
 }
 
 div.highlighter-rouge code {
   display: block;
   overflow-x: auto;
-  white-space: pre-wrap;
+  // white-space: pre-wrap;
   padding: 1rem;
+  width: 100%;
 }
 
 blockquote {
