@@ -5,7 +5,8 @@ title: Local Coop Game
 slug: local-coop-game
 ---
 
-Rekomendasi local coop game:
+### Local coop game recommendation.
+
 1. Stardew Valley
 
     Rating: 10/10

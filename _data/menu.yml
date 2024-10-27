@@ -10,7 +10,7 @@ entries:
           limit: 3
           show_more: true
           show_more_text: See other articles...
-          show_more_url: archive.html
+          show_more_url: article-archive.html
       - title: Recommendation
         post_list:
           category: recommendation
