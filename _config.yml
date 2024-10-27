@@ -5,12 +5,8 @@ url: https://wikankun.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   <p>
-  I'm a programmer with 3+ years of experiences<br>
-  <br>
-  Interest: gaming, programming, backend, data engineering<br>
-  Dislikes: frontend<br>
-  Motto: from random import *<br><br>
-  ↓ will update soon
+  Data Engineer / Software Engineer with interest in distributed system, cloud computing, and data-driven solution.<br>
+  Working remotely since 2020.<br>
   </p>
 
 permalink: /:slug.html

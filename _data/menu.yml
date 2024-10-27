@@ -18,6 +18,19 @@ entries:
           show_more: true
           show_more_text: See other recommendations...
           show_more_url: recommendation-archive.html
+      - title: Cool Projects
+        entries:
+        - title: Indonesian E-Commerce Price History Tracker - Chrome Extension
+          url: https://github.com/pricehistoryid/chrome-price-history
+        - title: Country Guessing Game
+          url: https://wikankun.github.io/country-guessing-game/
+        - title: Cookbook
+          url: https://wikankun.github.io/cookbook/
+        - title: Fish Tycoon 2 Breeding Path Finder
+          url: https://wikankun.github.io/fish-tycoon-2-solver/
+        - title: Kafka Connect Automatic Deployment
+          url: https://github.com/wikankun/kafka-connect-cicd
+        
     # post_list:
     #   limit: 5
     #   show_more: true
