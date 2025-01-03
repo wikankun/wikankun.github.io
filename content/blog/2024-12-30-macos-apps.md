@@ -8,7 +8,6 @@ tags:
 date: 2024-12-30
 ---
 
-# MacOS apps recommendation to increase productivity
 After finishing [[2024-12-29-macos-setup]] we usually still need to install few apps to increase productivity. Here's list of productivity apps that works for me:
 
 1. [Itsycal](https://www.mowglii.com/itsycal/)

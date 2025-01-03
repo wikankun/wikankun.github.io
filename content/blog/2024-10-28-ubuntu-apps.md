@@ -8,8 +8,6 @@ tags:
 date: 2024-10-28
 ---
 
-# Ubuntu apps recommendation to increase productivity
-
 After we discussed about [[2024-10-27-after-install-ubuntu]], what comes next is what apps to install on our new Ubuntu machine. Here's the list of my personal recommendation of Ubuntu apps:
 
 1. Google Chrome

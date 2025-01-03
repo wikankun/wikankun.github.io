@@ -8,8 +8,6 @@ tags:
 date: 2024-10-24
 ---
 
-# Multiprocessing vs Multithreading vs Asynchronous
-
 There are several types of concurrency and parallelism in python, they're multiprocessing, multithreading, and asynchronous. But, before we compare them, we will first discuss the definitions and analogies of each to make them easier to understand.
 
 ## Definition
