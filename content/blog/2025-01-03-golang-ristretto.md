@@ -10,13 +10,15 @@ date: 2025-01-03
 ---
 ## Observation
 
-While working on pricehistory.id, I'm also looking for a golang package to handle local in-memory cache. I found several potential packages, they're allegro/bigcache, coocood/freecache, and dgraph-io/ristretto. Three of them are all popular package for in-memory cache. So I did my research on several key aspects: maintainer's activity, performance, features. After some careful consideration, my choice went to dgraph-io/ristretto. Besides of it's performance outperforms the other two, it also have the feature I need. It's the dynamic expiration.
+While working on [pricehistory.id](https://pricehistory.id), I'm also looking for a golang package to handle local in-memory cache. I found several potential packages, they're allegro/bigcache, coocood/freecache, and dgraph-io/ristretto. Three of them are all popular package for in-memory cache. So I did my research on several key aspects: maintainer's activity, performance, features. After some careful consideration, my choice went to dgraph-io/ristretto. Besides of it's performance outperforms the other two, it also have the feature I need. It's the dynamic expiration.
 
 ## Overview & Features
 
 [Ristretto](https://github.com/dgraph-io/ristretto) is a fast, concurrent cache library built with a focus on performance and correctness.
 
 The motivation to build Ristretto comes from the need for a contention-free cache in [Dgraph](https://github.com/dgraph-io/dgraph).
+
+Features:
 
 - **High Hit Ratios** - with our unique admission/eviction policy pairing, Ristretto's performance is best in class.
     - **Eviction: SampledLFU** - on par with exact LRU and better performance on Search and Database traces.
