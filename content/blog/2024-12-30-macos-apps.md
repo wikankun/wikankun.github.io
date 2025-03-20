@@ -42,7 +42,7 @@ After finishing [[2024-12-29-macos-setup]] we usually still need to install few 
 
     VLC alternative for MacOS.
 
-9.  [WebTorrent](https://webtorrent.io/)
+9. [WebTorrent](https://webtorrent.io/)
 
     Torrent downloader app. If you're downloading a audio/video file, you can also stream directly using the app.
 
