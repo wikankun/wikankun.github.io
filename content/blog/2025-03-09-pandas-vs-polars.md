@@ -18,4 +18,6 @@ As a data engineer, my daily job involves acquiring data, cleaning it, and stori
 
 I’ve been using Pandas for this, but I recently tested Polars to see if it could be a faster alternative. Here are the results (in seconds) for different dataset sizes.
 
+![pandas-vs-polars](../assets/chart.png)
+
 Not a huge difference, but Polars consistently performed slightly better as the data size increased. Since Polars is optimized for multi-threading and lazy evaluation, I’m considering whether it’s worth switching for long-term efficiency.
