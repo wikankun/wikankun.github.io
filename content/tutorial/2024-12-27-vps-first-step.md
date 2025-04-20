@@ -21,21 +21,29 @@ date: 2024-12-27
 2. Create a non-root user
    1. Create new user
         ```
-        adduser newuser
+        adduser {newuser}
         ```
    2. Grant sudo privilege to new user
         ```
-        usermod -aG sudo newuser
+        usermod -aG sudo {newuser}
         ```
 
-3. Install docker (using convenience script)
+3. Create ssh connection to new user
+   1. Create a authorized_keys file
+        ```
+        nano /home/{newuser}/.ssh/authorized_keys
+        ```
+   2. Add your public key to authorized_keys file
+   3. Log out to log in to new user
+
+4. Install docker (using convenience script)
 
     ```
     curl -fsSL https://get.docker.com -o get-docker.sh
-    sudo sh ./get-docker.sh --dry-run
+    sudo sh ./get-docker.sh
     ```
 
-4. Manage docker as a non-root user (docker post-install)
+5. Manage docker as a non-root user (docker post-install)
     ```
     sudo groupadd docker
     sudo usermod -aG docker $USER
