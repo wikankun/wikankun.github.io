@@ -27,56 +27,57 @@ There are three types:
 
 1. Local Forwarding
 
-You forward a local port on your machine to a remote address. Example use case: accessing a database that's only open on localhost of the remote machine.
+    You forward a local port on your machine to a remote address. Example use case: accessing a database that's only open on localhost of the remote machine.
 
 2. Remote Forwarding
 
-You open a port on the remote machine and forward it back to your local machine. Example use case: letting someone SSH into your local dev machine via a remote server.
+    You open a port on the remote machine and forward it back to your local machine. Example use case: letting someone SSH into your local dev machine via a remote server.
 
 3. Dynamic Forwarding
 
-You basically make your SSH client act like a SOCKS proxy. It's like a running a poor man's VPN.
+    You basically make your SSH client act like a SOCKS proxy. It's like a running a poor man's VPN.
 
 ## How to Do It
 
 1. Local Port Forwarding
 
-```
-ssh -L 8080:localhost:3000 user@remote.server
-```
+    ```
+    ssh -L 8080:localhost:3000 user@remote.server
+    ```
 
-Explanation:
-- `-L`: local forwarding
-- `8080`: port on your local machine
-- `localhost:3000`: where the remote service lives
-- `user@remote.server`: the SSH target
+    Explanation:
+    - `-L`: local forwarding
+    - `8080`: port on your local machine
+    - `localhost:3000`: where the remote service lives
+    - `user@remote.server`: the SSH target
 
-Or you can add it into your ~/.ssh/config file:
-```
-Host remote.server
-    HostName remote.server
-    User user
-    IdentityFile ~/.ssh/ssh_pubkey
-    LocalForward 8080 localhost:3000
-```
+    Or you can add it into your ~/.ssh/config file:
 
-Now when you access localhost:8080 on your laptop, it's showing `remote.server:3000`
+    ```
+    Host remote.server
+        HostName remote.server
+        User user
+        IdentityFile ~/.ssh/ssh_pubkey
+        LocalForward 8080 localhost:3000
+    ```
+
+    Now when you access localhost:8080 on your laptop, it's showing `remote.server:3000`
 
 2. Remote Port Forwarding
 
-```
-ssh -R 8080:localhost:3000 user@remote.server
-```
+    ```
+    ssh -R 8080:localhost:3000 user@remote.server
+    ```
 
-This makes port 8080 on `remote.server` forward to your local port 3000
+    This makes port 8080 on `remote.server` forward to your local port 3000
 
 3. Dynamic Port Forwarding
 
-```
-ssh -D 1080 user@remote.server
-```
+    ```
+    ssh -D 1080 user@remote.server
+    ```
 
-Then set your browser to use `localhost:1080` as a SOCKS5 proxy. Boom, traffic goes through the server.
+    Then set your browser to use `localhost:1080` as a SOCKS5 proxy. Boom, traffic goes through the server.
 
 ## Why Should Devs Care?
 
