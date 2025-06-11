@@ -95,11 +95,10 @@ Honestly, port forwarding saves your ass in a lot of dev and ops scenarios. Here
 
 SSH port forwarding is basically networking dark magic that lets you route traffic through secure tunnels. Use it to:
 
-Access remote services as if they’re local.
+- Access remote services as if they’re local.
 
-Avoid exposing ports to the public internet.
+- Avoid exposing ports to the public internet.
 
-Make life less painful in dev environments.
+- Make life less painful in dev environments.
 
 It’s like Swiss Army knife stuff. Learn it once, and you’ll thank yourself in every weird debugging session, staging environment, or when dealing with that one server that refuses to behave like a normal human being.
-
