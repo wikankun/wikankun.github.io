@@ -1,6 +1,6 @@
 ---
 title: Welcome to My Digital Garden
-date: 2024-12-27
+date: 2025-11-27
 ---
 
 ## Hey, I'm Wikan
@@ -24,6 +24,14 @@ I'm a proud parent of these babies, I want you to check them out:
 - **Country Guessing Game**
 
     You're given the initial of a country, and you have to guess which one it is. Click on the map, and it'll tell you if you're getting warmer or colder based on how close your guess is to the actual country. Also pure HTML + Javascript. Try it [here](https://wikankun.github.io/country-guessing-game/).
+
+- **Suppli**
+
+    You guess it right, it's a shared, privacy-first household grocery list tracker. And I'm very proud to announce that my biggest and most demanding client is now fully satisfied with it, my wife. Follow my client success story [here](https://suppli-mu.vercel.app/)
+    
+- **Jurnal**
+
+    Journaling app to help you keep track of your daily activities and thoughts. It's a simple, privacy-first app that allows you to create, edit, and delete entries. The data never leaves your browser. Try it [here](https://jurnal-mu.vercel.app//).
 
 More coming soon™. Maybe.
 
