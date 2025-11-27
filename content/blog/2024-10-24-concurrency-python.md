@@ -8,7 +8,7 @@ tags:
 date: 2024-10-24
 ---
 
-There are several types of concurrency and parallelism in python: multiprocessing, multithreading, and asynchronous. Before comparing them, I'll explain each with definitions and analogies to make them easier to understand.
+There are several types of concurrency and parallelism in python: multiprocessing, multithreading, and asynchronous. I'll explain each with definitions and analogies, then explain the differences between them.
 
 ## Definition
 ### Multiprocessing
@@ -30,14 +30,12 @@ Asynchronous is a programming technique where tasks are initiated and managed in
 Asynchronous processing is like having workers acting as secretaries. They need to make and receive calls and messages while aslo handling other administrative tasks. So, while waiting for an external response (in this case, calls or messages), they continue working on other tasks to stay efficient. This method is ideal for I/O-bound tasks that rely on external sources. Without multitasking, waiting idly for responses would definitely hinder the progress of other tasks.
 
 ## Tradeoff
-
-Now let's compare the tradeoffs of each method.
-
 ### Multiprocessing
 
 Pros:
 - True parallelism for CPU-bound tasks
 - No memory sharing problem (race condition or deadlock)
+
 Cons:
 - Higher memory usage
 - Slower communication
@@ -49,6 +47,7 @@ Pros:
 - Efficient for I/O-bound tasks
 - Lower memory usage
 - Faster context switching
+
 Cons:
 - Concurrency issues (race condition or deadlock)
 - Limited performance improvements for CPU-bound tasks
@@ -58,6 +57,7 @@ Cons:
 Pros:
 - Highly efficient for I/O bound tasks
 - Minimal overhead since it doesn't require multiple threads or processes
+
 Cons:
 - Difficult to debug
 - Not suitable for CPU-bound tasks
