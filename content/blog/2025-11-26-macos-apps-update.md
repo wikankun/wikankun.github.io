@@ -2,7 +2,7 @@
 title: 2025-11-26 MacOS Apps
 description: 
 tags:
-  - thought
+  - blog
   - macos
   - apps
 date: 2025-11-26

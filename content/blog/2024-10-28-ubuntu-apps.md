@@ -2,7 +2,7 @@
 title: 2024-10-28 Ubuntu Apps
 description: 
 tags:
-  - thought
+  - blog
   - ubuntu
   - apps
 date: 2024-10-28

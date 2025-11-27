@@ -3,7 +3,6 @@ title: 2025-01-02 Why Do Companies Use Thematic Subdomain Names
 description: 
 tags:
   - blog
-  - thought
   - web
   - domain
 date: 2024-10-27

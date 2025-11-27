@@ -1,11 +1,11 @@
 ---
-title: 2025-11-26 Find Your IP Address
+title: 2025-11-27 Find Your IP Address
 description: 
 tags:
   - tutorial
   - ubuntu
   - network
-date: 2025-11-26
+date: 2025-11-27
 ---
 # Find Your IP Address
 

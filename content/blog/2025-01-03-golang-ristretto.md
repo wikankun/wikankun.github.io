@@ -3,7 +3,6 @@ title: 2025-01-03 Golang Ristretto
 description: 
 tags:
   - blog
-  - thought
   - golang
   - package
 date: 2025-01-03

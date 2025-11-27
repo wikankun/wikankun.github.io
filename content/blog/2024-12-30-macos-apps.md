@@ -2,7 +2,7 @@
 title: 2024-12-30 MacOS Apps
 description: 
 tags:
-  - thought
+  - blog
   - macos
   - apps
 date: 2024-12-30
