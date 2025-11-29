@@ -3,6 +3,8 @@ title: 2025-11-25 Ventoy USB Bootable Tool
 description: 
 tags:
   - blog
+  - software
+  - tool
 date: 2025-11-25
 ---
 # Ventoy USB Bootable Tool

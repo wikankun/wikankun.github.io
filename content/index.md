@@ -27,7 +27,7 @@ I'm a proud parent of these babies, I want you to check them out:
 
 - **Suppli**
 
-    You guess it right, it's a shared, privacy-first household grocery list tracker. And I'm very proud to announce that my biggest and most demanding client is now fully satisfied with it, my wife. Follow my client success story [here](https://suppli-mu.vercel.app/)
+    You guess it right, it's a shared, privacy-first household grocery list tracker. And I'm very proud to announce that my biggest and most demanding client is now fully satisfied with it, my wife. Follow my client's success story [here](https://suppli-mu.vercel.app/)
     
 - **Jurnal**
 
