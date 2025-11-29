@@ -1,9 +1,9 @@
 ---
-title: 2025-11-27 Delegation, Decisions, and the Art of Letting Go
+title: 2025-11-28 Delegation, Decisions, and the Art of Letting Go
 tags:
   - blog
   - leadership
-date: 2025-11-27
+date: 2025-11-28
 ---
 
 # Delegation, Decisions, and the Art of Letting Go
