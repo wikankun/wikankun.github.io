@@ -27,8 +27,8 @@ I'm a proud parent of these babies, I want you to check them out:
 
 - **Suppli**
 
-    You guess it right, it's a shared, privacy-first household grocery list tracker. And I'm very proud to announce that my biggest and most demanding client is now fully satisfied with it, my wife. Follow my client's success story [here](https://suppli-mu.vercel.app/)
-    
+    You guess it right, it's a shared, privacy-first household grocery list tracker. And I'm very proud to announce that my biggest and most demanding client—my wife—is now fully satisfied with it. Follow my client's success story [here](https://suppli-mu.vercel.app/).
+
 - **Jurnal**
 
     Journaling app to help you keep track of your daily activities and thoughts. It's a simple, privacy-first app that allows you to create, edit, and delete entries. The data never leaves your browser. Try it [here](https://jurnal-mu.vercel.app//).
