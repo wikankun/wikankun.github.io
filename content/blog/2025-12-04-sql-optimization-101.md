@@ -12,7 +12,7 @@ Think this as a starter pack if you wanna run queries that works efficiently.
 
 1. Select only columns you need
 
-  SELECT * pulls in every columns, so your query will feel slower and use more resources.
+  `SELECT *` pulls in every columns, so your query will feel slower and use more resources.
 
 2. Use proper indexing
 
