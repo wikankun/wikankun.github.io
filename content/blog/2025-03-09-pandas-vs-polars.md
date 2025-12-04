@@ -9,7 +9,7 @@ tags:
 date: 2025-03-09
 ---
 
-# Pandas vs. Polars: Which One is Faster for My Data Pipeline?
+## Pandas vs. Polars: Which One is Faster for My Data Pipeline?
 
 As a data engineer, my daily job involves acquiring data, cleaning it, and storing it in a structured format. A big part of this process is:
 - Reading JSON data

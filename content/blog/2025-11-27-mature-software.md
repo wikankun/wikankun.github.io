@@ -6,7 +6,7 @@ tags:
 date: 2025-11-27
 ---
 
-# So what is a mature software?
+## So what is a mature software?
 
 What does it mean for software to be "mature"? Is it simply a matter of age, like a fine wine? Or is there more to it?
 
@@ -16,7 +16,7 @@ It is designed to meet the needs of its users.
 It has not to be old, but it should be actively and well-maintained.
 It should also have comprehensive documentation and reliable & active support.
 
-# How can we identify a mature software?
+## How can we identify a mature software?
 
 First, let's look at the non-technical aspects.
 - It has a solid foundation. This means the project has a clear vision, stable governance, and a dedicated community or company behind it.
@@ -29,7 +29,7 @@ Next, we can examine the technical aspects.
 - It's in optimization stage. The developers focus has shifted to improving performance, reliability, and efficiency.
 - It's widely used by the industry. When a piece of technology is trusted by a large number of companies and projects, it's a strong sign that it has proven its reliability and value over time.
 
-# Conclusion
+## Conclusion
 
 In the end, software maturity isn't about its age; it's about its quality and reliability. It's a combination of solving real-world problems effectively and demonstrating technical excellence through stability, active maintenance, and clear documentation.
 
