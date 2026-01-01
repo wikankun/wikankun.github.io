@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: { provider: 'umami', host: 'https://cloud.umami.is/', websiteId: 'a0435f3d-cd7a-4919-96ba-cfc7037ce675' },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "wikankun.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
