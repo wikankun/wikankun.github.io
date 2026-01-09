@@ -1,5 +1,6 @@
 ---
 title: 2025-11-27 Mature Software
+description: 
 tags:
   - blog
   - software

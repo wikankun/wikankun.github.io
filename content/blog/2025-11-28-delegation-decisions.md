@@ -1,5 +1,6 @@
 ---
 title: 2025-11-28 Delegation, Decisions, and the Art of Letting Go
+description: 
 tags:
   - blog
   - leadership
