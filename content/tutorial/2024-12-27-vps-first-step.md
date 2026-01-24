@@ -9,7 +9,7 @@ tags:
 date: 2024-12-27
 ---
 
-# The very first steps whenever I rented a VPS
+## The very first steps whenever I rented a VPS
 
 1. Update and upgrade all software
 

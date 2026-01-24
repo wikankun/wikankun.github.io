@@ -8,7 +8,7 @@ tags:
 date: 2024-10-27
 ---
 
-# Things I do after installing Ubuntu
+## Things I do after installing Ubuntu
 
 1. Setup dock position & dock autohide
 

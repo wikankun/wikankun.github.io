@@ -8,7 +8,7 @@ tags:
 date: 2025-11-27
 ---
 
-# Find Your IP Address
+## Find Your IP Address
 
 You can find your IP address by using command:
 ```
@@ -20,8 +20,20 @@ You can also use `hostname` command:
 hostname -i
 ```
 
-# Find All Processes Listen on a Port
+## Find All Processes Listen on a Port
 
 ```
 lsof -i -P | grep LISTEN
+```
+
+## Check DNS
+
+Using nslookup:
+```
+nslookup google.com
+```
+
+Using dig:
+```
+dig google.com
 ```

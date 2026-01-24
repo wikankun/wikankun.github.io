@@ -2,7 +2,7 @@
 title: 2025-06-11 SSH Port Forwarding
 description: 
 tags:
-  - tutorial
+  - blog
   - ssh
   - server
 date: 2025-06-11
