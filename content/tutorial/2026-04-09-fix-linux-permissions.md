@@ -1,5 +1,5 @@
 ---
-title: Fixing 'Permission Denied': A Quick chmod and chown Guide
+title: Fixing 'Permission Denied' - A Quick chmod and chown Guide
 description: A cheat sheet for resetting file and directory ownership safely in Linux.
 tags:
   - tutorial

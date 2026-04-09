@@ -1,5 +1,5 @@
 ---
-title: Pandas vs. Polars: Performance Benchmarks for Data Pipelines
+title: Pandas vs. Polars - Performance Benchmarks for Data Pipelines
 description: A direct comparison of data processing speeds for common ETL tasks.
 tags:
   - blog

@@ -1,5 +1,5 @@
 ---
-title: Leadership Through Resilience: The Art of Effective Delegation
+title: Leadership Through Resilience = The Art of Effective Delegation
 description: Why a leader's ability to take leave is the ultimate sign of a healthy team.
 tags:
   - blog

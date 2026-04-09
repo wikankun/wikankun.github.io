@@ -1,5 +1,5 @@
 ---
-title: Mastering SSH Tunneling: Secure Access and Local Port Forwarding
+title: Mastering SSH Tunneling - Secure Access and Local Port Forwarding
 description: How to safely route traffic through secure tunnels for dev and ops tasks.
 tags:
   - blog

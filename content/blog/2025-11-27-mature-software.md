@@ -1,5 +1,5 @@
 ---
-title: Defining Software Maturity: Why Stability Beats Feature-Creep
+title: Defining Software Maturity - Why Stability Beats Feature-Creep
 description: Understanding what makes a piece of technology dependable and long-lasting.
 tags:
   - blog

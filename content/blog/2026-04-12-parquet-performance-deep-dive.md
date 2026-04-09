@@ -1,5 +1,5 @@
 ---
-title: Beyond the Engine: Why Parquet is the Backbone of Modern Data Pipelines
+title: Beyond the Engine - Why Parquet is the Backbone of Modern Data Pipelines
 description: A deep dive into columnar storage, pushdown optimization, and why Parquet is the ultimate storage format for high-performance analytical engines.
 tags:
   - blog

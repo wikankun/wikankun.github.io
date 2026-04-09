@@ -1,5 +1,5 @@
 ---
-title: Concurrency Deep Dive: Python's GIL vs. Go's Channels
+title: Concurrency Deep Dive - Python's GIL vs. Go's Channels
 description: Understanding the internal mechanics of Python's Global Interpreter Lock and Go's CSP model for better concurrent programming.
 tags:
   - blog

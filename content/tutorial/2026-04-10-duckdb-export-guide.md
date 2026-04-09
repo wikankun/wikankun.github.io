@@ -1,5 +1,5 @@
 ---
-title: Exporting Data: Saving DuckDB Tables to Parquet and CSV
+title: Exporting Data - Saving DuckDB Tables to Parquet and CSV
 description: A quick reference for exporting your DuckDB analytical results into portable, high-performance file formats.
 tags:
   - tutorial

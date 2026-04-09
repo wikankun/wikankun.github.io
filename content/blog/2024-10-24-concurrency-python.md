@@ -1,5 +1,5 @@
 ---
-title: Scaling Python: Multiprocessing vs Multithreading vs Async
+title: Scaling Python - Multiprocessing vs Multithreading vs Async
 description: A practical guide to choosing the right concurrency model for Python applications.
 tags:
   - blog

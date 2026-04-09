@@ -1,5 +1,5 @@
 ---
-title: Running Docker Without Sudo: A Quick Permissions Fix
+title: Running Docker Without Sudo = A Quick Permissions Fix
 description: Stop typing sudo for every Docker command by adding your user to the docker group.
 tags:
   - tutorial
