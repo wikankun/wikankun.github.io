@@ -1,5 +1,5 @@
 ---
-title: Clearing Disk Space: Finding Large Files Fast
+title: Clearing Disk Space - Finding Large Files Fast
 description: A quick guide to identifying and removing the files eating your server's storage.
 tags:
   - tutorial
