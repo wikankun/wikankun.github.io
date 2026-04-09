@@ -1,6 +1,6 @@
 ---
-title: 2024-12-27 VPS First Step
-description: 
+title: 5 Critical First Steps for Securing Your New VPS
+description: Essential security and configuration tasks for every new server deployment.
 tags:
   - tutorial
   - ubuntu
@@ -34,7 +34,7 @@ date: 2024-12-27
         nano /home/{newuser}/.ssh/authorized_keys
         ```
    2. Add your public key to authorized_keys file
-   3. Log out to log in to new user
+   3. Log out to log in to new user. (If you run into permission errors here, see my [[2026-04-09-fix-linux-permissions]] guide).
 
 4. Install docker (using convenience script)
 
@@ -49,3 +49,5 @@ date: 2024-12-27
     sudo usermod -aG docker $USER
     newgrp docker
     ```
+
+For a more detailed breakdown of why this step is important and how it works, see [[2026-04-10-docker-socket-permissions]].

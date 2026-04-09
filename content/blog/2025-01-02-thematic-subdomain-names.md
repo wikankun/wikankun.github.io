@@ -1,11 +1,11 @@
 ---
-title: 2025-01-02 Why Do Companies Use Thematic Subdomain Names
-description: 
+title: Why Startups Name Subdomains After Food and Planets
+description: Exploring the culture and benefits of thematic internal infrastructure naming.
 tags:
   - blog
   - web
   - domain
-date: 2024-10-27
+date: 2025-01-02
 ---
 
 ## Background

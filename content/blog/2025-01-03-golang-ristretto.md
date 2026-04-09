@@ -1,16 +1,16 @@
 ---
-title: 2025-01-03 Golang Ristretto
-description: 
+title: High-Performance In-Memory Caching with Ristretto in Go
+description: Why we chose Ristretto for pricehistory.id and how to implement it efficiently.
 tags:
   - blog
-  - golang
+  - Go
   - package
 date: 2025-01-03
 ---
 
 ## Observation
 
-While working on [pricehistory.id](https://pricehistory.id), I'm also looking for a golang package to handle local in-memory cache.
+While working on [pricehistory.id](https://pricehistory.id), I'm also looking for a Go package to handle local in-memory cache.
 I found several potential packages, they're allegro/bigcache, coocood/freecache, and dgraph-io/ristretto.
 Three of them are all popular package for in-memory cache. So I did my research on several key aspects: maintainer's activity, performance, features.
 After some careful consideration, my choice went to dgraph-io/ristretto. Besides of it's performance outperforms the other two, it also have the feature I need.

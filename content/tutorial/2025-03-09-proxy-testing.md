@@ -1,6 +1,6 @@
 ---
-title: 2025-03-09 Proxy Testing
-description: 
+title: Testing Proxy Connectivity with a Single Curl Command
+description: A quick way to verify proxy settings using the terminal.
 tags:
   - tutorial
   - proxy

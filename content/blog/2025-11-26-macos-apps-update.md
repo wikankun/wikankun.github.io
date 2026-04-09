@@ -1,9 +1,9 @@
 ---
-title: 2025-11-26 MacOS Apps
-description: 
+title: macOS Productivity Update
+description: New additions to my macOS workflow after a year of testing.
 tags:
   - blog
-  - macos
+  - macOS
   - apps
 date: 2025-11-26
 ---
@@ -31,7 +31,7 @@ After a year using apps in [[2024-12-30-macos-apps]], I found that not every app
 4. [Orbstack](https://orbstack.dev/)
 
     OrbStack is the fast, light, and easy way to run Docker containers and Linux.
-    A better Docker Desktop alternative for MacOS.
+    A better Docker Desktop alternative for macOS.
 
 5. [Orion](https://orionbrowser.com/)
     

@@ -1,6 +1,6 @@
 ---
-title: 2025-06-11 SSH Port Forwarding
-description: 
+title: Mastering SSH Tunneling: Secure Access and Local Port Forwarding
+description: How to safely route traffic through secure tunnels for dev and ops tasks.
 tags:
   - blog
   - ssh
@@ -51,7 +51,7 @@ There are three types:
     - `localhost:3000`: where the remote service lives
     - `user@remote.server`: the SSH target
 
-    Or you can add it into your ~/.ssh/config file:
+    Or you can add it into your ~/.ssh/config file for a much smoother experience (see [[2026-04-09-ssh-config-aliases]]):
 
     ```
     Host remote.server

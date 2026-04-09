@@ -1,6 +1,6 @@
 ---
-title: 2024-10-28 Ubuntu Apps
-description: 
+title: Essential Apps for a Fresh Ubuntu Installation
+description: A curated list of productivity tools and development utilities for Ubuntu users.
 tags:
   - blog
   - ubuntu
@@ -24,7 +24,7 @@ After we discussed about [[2024-10-27-after-install-ubuntu]], what comes next is
 
 4. Pyenv
 
-    It might be bothersome to have several versions of python installed on our Ubuntu, but Pyenv has the solution. This app helps us manage python version we want to install and use on specific folder or repository.
+    It might be bothersome to have several versions of Python installed on our Ubuntu, but Pyenv has the solution. This app helps us manage Python version we want to install and use on specific folder or repository.
 
 5. Postman
 

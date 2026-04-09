@@ -1,6 +1,6 @@
 ---
-title: 2025-11-25 Ventoy USB Bootable Tool
-description: 
+title: Create Multi-Boot USBs Without Reformatting Using Ventoy
+description: The modern way to manage multiple ISOs on a single bootable drive.
 tags:
   - blog
   - software

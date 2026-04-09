@@ -1,6 +1,6 @@
 ---
-title: 2025-11-28 Delegation, Decisions, and the Art of Letting Go
-description: 
+title: Leadership Through Resilience: The Art of Effective Delegation
+description: Why a leader's ability to take leave is the ultimate sign of a healthy team.
 tags:
   - blog
   - leadership

@@ -1,6 +1,6 @@
 ---
-title: 2026-01-22 Ubuntu Server on Hyper-V for Homelab
-description: 
+title: Building a Windows 11 Homelab with Ubuntu Server and Hyper-V
+description: Setting up a dedicated, stable homelab foundation using native Windows virtualization.
 tags:
   - blog
   - ubuntu

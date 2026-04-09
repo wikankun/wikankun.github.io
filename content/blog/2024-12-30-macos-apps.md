@@ -1,9 +1,9 @@
 ---
-title: 2024-12-30 MacOS Apps
-description: 
+title: 12 Productivity-Boosting Apps for macOS
+description: The must-have utility list for any Mac power user to streamline their workflow.
 tags:
   - blog
-  - macos
+  - macOS
   - apps
 date: 2024-12-30
 ---
@@ -20,11 +20,11 @@ After finishing [[2024-12-29-macos-setup]] we usually still need to install few 
 
 3. [Rectangle](https://rectangleapp.com/)
 
-    It's my favorite MacOS app, since MacOS doesn't have windows snapping feature. I often use screen snapping function by double clicking the app's header.
+    It's my favorite macOS app, since macOS doesn't have windows snapping feature. I often use screen snapping function by double clicking the app's header.
 
 4. [Fliqlo](https://fliqlo.com/)
 
-    If you want to make your MacOS device's screen saver looks cooler, this is the most popular app.
+    If you want to make your macOS device's screen saver looks cooler, this is the most popular app.
 
 5. [AppCleaner](https://freemacsoft.net/appcleaner/)
 
@@ -36,11 +36,11 @@ After finishing [[2024-12-29-macos-setup]] we usually still need to install few 
 
 7. [Keka](https://www.keka.io/en/)
 
-    Winrar alternative for MacOS.
+    Winrar alternative for macOS.
 
 8. [IINA](https://iina.io/)
 
-    VLC alternative for MacOS.
+    VLC alternative for macOS.
 
 9. [WebTorrent](https://webtorrent.io/)
 

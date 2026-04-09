@@ -1,6 +1,6 @@
 ---
-title: 2024-10-27 After Install Ubuntu
-description: 
+title: The Ultimate Post-Installation Guide for Ubuntu 24.04
+description: A step-by-step checklist to configure Ubuntu for development after a fresh install.
 tags:
   - tutorial
   - ubuntu

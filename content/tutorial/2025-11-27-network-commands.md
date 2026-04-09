@@ -1,6 +1,6 @@
 ---
-title: 2025-11-27 Network Commands
-description: 
+title: Essential Linux Network Commands for Debugging
+description: A cheat sheet for identifying IPs, ports, and DNS issues in Linux.
 tags:
   - tutorial
   - ubuntu
@@ -37,3 +37,5 @@ Using dig:
 ```
 dig google.com
 ```
+
+Once you've verified your network settings, you can move on to more advanced tasks like [[2025-03-09-proxy-testing]] or setting up secure access via [[2025-06-11-ssh-port-forwarding]].

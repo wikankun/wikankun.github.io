@@ -1,6 +1,6 @@
 ---
-title: 2025-12-04 SQL Query Optimization 101
-description: 
+title: 10 Essential Rules for SQL Query Optimization
+description: A starter pack for writing efficient queries and identifying performance bottlenecks.
 tags:
   - blog
   - sql

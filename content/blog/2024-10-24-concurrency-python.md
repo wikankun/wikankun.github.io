@@ -1,6 +1,6 @@
 ---
-title: 2024-10-24 Concurrency In Python
-description: 
+title: Scaling Python: Multiprocessing vs Multithreading vs Async
+description: A practical guide to choosing the right concurrency model for Python applications.
 tags:
   - blog
   - python
@@ -8,7 +8,7 @@ tags:
 date: 2024-10-24
 ---
 
-There are several types of concurrency and parallelism in python: multiprocessing, multithreading, and asynchronous. I'll explain each with definitions and analogies, then explain the differences between them.
+There are several types of concurrency and parallelism in Python: multiprocessing, multithreading, and asynchronous. I'll explain each with definitions and analogies, then explain the differences between them.
 
 ## Definition
 ### Multiprocessing
@@ -94,3 +94,5 @@ As a rule of thumb:
 > Use **asynchronous** when you have many I/O-bound tasks especially network calls.
 
 > Use **multithreading** when it's neither of the two above.
+
+For a real-world example of how multi-threading and optimized execution can improve performance, check out my comparison in [[2025-03-09-pandas-vs-polars]].
