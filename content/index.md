@@ -33,6 +33,14 @@ I'm a proud parent of these babies, I want you to check them out:
 
     Journaling app to help you keep track of your daily activities and thoughts. It's a simple, privacy-first app that allows you to create, edit, and delete entries. The data never leaves your browser. Try it [here](https://jurnal-mu.vercel.app//).
 
+- **Digimon World Championship (Nintendo DS) Digivolution Planner**
+
+    Plan your digimon team for the Digimon World Championship. It's a pure HTML + Javascript app. [Start digivolving](https://wikankun.github.io/digimon-world-championship-planner/).
+
+- **LocalURL**
+
+    LocalURL is a lightweight, privacy-first URL shortener that runs entirely in your browser. No backend, no tracking, no cloud dependencies. All your data is stored locally using IndexedDB, making it truly private and offline-capable. [Generate a local URL](https://wikankun.github.io/local-url/).
+
 More coming soon™. Maybe.
 
 ## Reach Out?
