@@ -39,7 +39,7 @@ I'm a proud parent of these babies, I want you to check them out:
 
 - **LocalURL**
 
-    LocalURL is a lightweight, privacy-first URL shortener that runs entirely in your browser. No backend, no tracking, no cloud dependencies. All your data is stored locally using IndexedDB, making it truly private and offline-capable. [Generate a local URL](https://wikankun.github.io/local-url/).
+    LocalURL is a lightweight, privacy-first URL shortener that runs entirely in your browser. No backend, no tracking, no cloud dependencies. All your data is stored locally using IndexedDB, making it truly private and offline-capable. [Generate a local URL](https://wikankun.github.io/localurl/).
 
 More coming soon™. Maybe.
 
