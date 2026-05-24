@@ -6,6 +6,7 @@ tags:
   - python
   - pandas
   - polars
+  - benckmarking
 date: 2025-03-09
 ---
 
