@@ -41,6 +41,10 @@ I'm a proud parent of these babies, I want you to check them out:
 
     LocalURL is a lightweight, privacy-first URL shortener that runs entirely in your browser. No backend, no tracking, no cloud dependencies. All your data is stored locally using IndexedDB, making it truly private and offline-capable. [Generate a local URL](https://wikankun.github.io/localurl/).
 
+- **BigQuery Cost Estimator**
+
+    A browser extension providing real-time cost transparency for Google BigQuery. It calculates query costs as you type, supports multi-currency, and helps you stay within budget with a "Quota Guard" feature. [Estimate your costs](https://github.com/wikankun/bigquery-cost-estimator).
+
 More coming soon™. Maybe.
 
 ## Reach Out?
