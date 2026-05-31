@@ -7,7 +7,7 @@ tags:
   - data-engineering
   - performance
   - python
-date: 2026-04-20
+date: 2026-06-01
 ---
 
 > **TL;DR:** After reducing our cloud costs by 95% using DuckDB, I focused on the next big challenge: **speed**. By moving to a multi-threaded architecture with a file-backed database, we cut our processing time from 9 minutes down to 2. This post explains how I solved the performance bottleneck of network latency and avoided a tricky "memory-only" bug that often traps developers.
